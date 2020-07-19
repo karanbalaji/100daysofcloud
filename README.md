@@ -14,16 +14,16 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## [✍️ Karan Balaji]'s Cloud Journey
 
-[✍️ Introduce yourself]
+[✍️ A marketer who loves tech and gaming. I design customer-centric touchpoints for users & customers.I started my journey studying business which enabled me to fully understand the perspective of business and my passion for gaming for over 10 years helped me understand the user and led me to become tech-savvy]
 
-[✍️ Tell us why you started this challenge]
+[✍️ I started this challege to create more projects and land a cloud related job. Cloud computing knowledge has helped me solve problems within clicks. I wish to bring this knowledge to the industry so that they can focus on the customer experience.]
 
-[✍️ Tell us where you want to be at the end of the challenge]
+[✍️ At the end of this challenge i wish to see myself working as a cloud engineer/consultant or be a mediator in the business/cloud deparment in a branded company]
 
-- [✍️ Link to your Twitter](https://twitter.com/karanbalaji047)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/karanbalaji)
+- [✍️ Twitter: @karanbalaji047](https://twitter.com/karanbalaji047)
+- [✍️ LinkedIn: Karan Balaji](https://www.linkedin.com/in/karanbalaji)
 
 ## Stepping out the door
 
