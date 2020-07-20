@@ -10,10 +10,6 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
-
 ## [✍️ Karan Balaji]'s Cloud Journey
 
 [✍️ A marketer who loves tech and gaming. I design customer-centric touchpoints for users & customers.I started my journey studying business which enabled me to fully understand the perspective of business and my passion for gaming for over 10 years helped me understand the user and led me to become tech-savvy]
@@ -27,7 +23,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
+- [ ] ☁️ 1 > [How to create IAM user with seperate login, MFA and introduction to AWS IQ access. ](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)

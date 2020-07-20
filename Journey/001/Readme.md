@@ -1,7 +1,6 @@
-**Add a cover photo like:**
 ![placeholder image](images/banner.png)
 
-# How to create IAM user with seperate login, MFA and AWS IQ access. 
+# How to create IAM user with seperate login, MFA and introduction to AWS IQ access. 
 
 ## Introduction
 
@@ -9,45 +8,53 @@
 
 ## Prerequisite
 
-✍️ * Familiarty with the AWS Console/Platform
-
-## Use Case
-
-- ![placeholder image](images/step-1.png)
-- ✍️ 1. Navigate to IAM user from the search. Click on users on the left navigation pannel and select add user.
-    
+✍️ Familiarity with the AWS Console/Platform
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- ✍️ In order to use AWS IQ we needed to create a seprate account with MFA other than the Root account. AWS IQ enables customers to find, securely collaborate with, and pay AWS Certified third-party experts for on-demand project work.
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+### Step 1 — Navigate to IAM user from the search. Click on users on the left navigation panel and select add user.
+- ![Screenshot](images/step-1.png)
 
-### Step 1 — Summary of Step
+### Step 2 — Create a user name and tick ✅ programmatic access
+- ![placeholder image](images/step-2.png)
 
-![Screenshot](https://via.placeholder.com/500x300)
+### Step 3 - Select attach existing policy and type **iq** in the search box and select AWSIQFullAccess.
+- ![placeholder image](images/step-3.png)
+- ✍️ You can assign a tag or leave it empty.
 
-### Step 1 — Summary of Step
+### Step 4 - Congratulations, you have created a user with least privilege. After this screen, close it and go back to the IAM dashboard.
+- ![placeholder image](images/step-6.png)
 
-![Screenshot](https://via.placeholder.com/500x300)
+### Step 5 - Select the user and navigate to the security credential tab and then select manage assigned MFA
+- ![placeholder image](images/step-6.png)
+    
+### Step 6 - Select Virtual MFA 
+- ![placeholder image](images/step-8.png)
 
-### Step 3 — Summary of Step
+### Step 7 - Download any app that is suggested and enter the MFA codes
+- ![placeholder image](images/step-2.png)
 
-![Screenshot](https://via.placeholder.com/500x300)
+### Step 8 - Close it and then Select manage from the console password and assign a password
+- ![placeholder image](images/step-9.png)
+
+### Step 9 - Nagivate through the link and then you can login as your test account
+- ![placeholder image](images/step-9.png)
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+✍️ (Result) Setting up MFA was tricky cause i had to use different mobile apps. The one i used was AUTHY. 
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+✍️ Up next I would try to do something similar in Azure cloud.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+✍️ [LinkedIn](link)
+✍️ [Twitter](link)
 
-[link](link)
+
