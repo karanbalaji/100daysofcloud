@@ -1,20 +1,21 @@
 **Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![placeholder image](images/banner.png)
 
-# New post title here
+# How to create IAM user with seperate login, MFA and AWS IQ access. 
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+✍️ I choose to do this as my first project because not a lot of people are aware of AWS IQ and setting up a consultant acccount was tricky.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+✍️ * Familiarty with the AWS Console/Platform
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- ![placeholder image](images/step-1.png)
+- ✍️ 1. Navigate to IAM user from the search. Click on users on the left navigation pannel and select add user.
+    
 
 ## Cloud Research
 
