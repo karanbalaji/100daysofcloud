@@ -1,6 +1,6 @@
-![placeholder image](images/banner.png)
-
 # How to create IAM user with seperate login, MFA and introduction to AWS IQ access. 
+
+![placeholder image](images/banner.png)
 
 ## Introduction
 
@@ -30,7 +30,7 @@
 - ![placeholder image](images/step-6.png)
 
 ### Step 5 - Select the user and navigate to the security credential tab and then select manage assigned MFA
-- ![placeholder image](images/step-6.png)
+- ![placeholder image](images/step-5.png)
     
 ### Step 6 - Select Virtual MFA 
 - ![placeholder image](images/step-8.png)
