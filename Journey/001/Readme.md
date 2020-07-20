@@ -54,7 +54,7 @@
 
 ## Social Proof
 
-✍️ [LinkedIn](link)
-✍️ [Twitter](link)
+✍️ [LinkedIn](https://www.linkedin.com/posts/karanbalaji_karanbalaji100daysofcloud-activity-6691067063806623744-LOGw)
+✍️ [Twitter](https://twitter.com/Karanbalaji047/status/1285299628594921473)
 
 
