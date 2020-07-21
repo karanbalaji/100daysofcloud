@@ -23,8 +23,8 @@
 
 ## Stepping out the door
 
-- [x] ☁️ 1 > [How to create IAM user with seperate login, MFA and introduction to AWS IQ access. ](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
+- [x] ☁️ 1 > (AWS)[How to create IAM user with seperate login, MFA and introduction to AWS IQ access. ](Journey/001/Readme.md)
+- [x] ☁️ 2 > (Azure)[How to create a React Static Webapp hosted on Azure and managed on Github.](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
