@@ -17,28 +17,29 @@ Familiarity with the Azure Portal
 ## Try yourself
 
 ### Step 1 — Create a GitHub account and click the "Use This Template" button.
-- ![Screenshot](images/step-0.1.png)
+#### Link to the Repo https://github.com/karanbalaji/react-static-basic
+![Screenshot](images/step-0.1.png)
 - Give the repository a name for exampe react-static-basic
 
 ### Step 2 — In Azure portal Search for resource groups and create one with a name of your choice.
-- ![placeholder image](images/step-2.png)
+![placeholder image](images/step-2.png)
 
 ### Step 3 - Search for static web apps and select the service.
-- ![placeholder image](images/step-3.png)
+![placeholder image](images/step-3.png)
 
 
 ### Step 4 - Fill the required details and connect your github with repo of the master branch
-- ![placeholder image](images/step-6.png)
+![placeholder image](images/step-6.png)
 - You can find your repository which we created and select master branch
 
 ### Step 5 - Under build tab type public under "App artifact location" and then proceed to create.
-- ![placeholder image](images/step-5.png)
+![placeholder image](images/step-5.png)
     
 ### Step 6 - Select Go to resources after the project is deployed 
-- ![placeholder image](images/step-6.png)
+![placeholder image](images/step-6.png)
 
 ### Step 7 - Congratulations, you can now view your website under the URL after giving it time to load.
-- ![placeholder image](images/step-7.png)
+![placeholder image](images/step-7.png)
 
 ## ☁️ Cloud Outcome
 
@@ -51,6 +52,6 @@ Up next I would try to do something similar in Azure cloud.
 ## Social Proof
 
 [LinkedIn](https://www.linkedin.com/posts/karanbalaji_karanbalaji100daysofcloud-activity-6691067063806623744-LOGw)
-[Twitter](https://twitter.com/Karanbalaji047/status/1285299628594921473)
+[Twitter](https://twitter.com/Karanbalaji047/status/1285702213357178885)
 
 
