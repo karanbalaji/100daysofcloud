@@ -1,4 +1,4 @@
-# Deploying a Gatsby React full stack webapp with AUTH using AWS Amplify.
+# Creating a Gatsby React full stack webapp with AUTH using AWS Amplify.
 
 ![placeholder image](images/banner.jpeg)
 
@@ -53,7 +53,7 @@ I would add more features and implement more AWS related things to this full sta
 
 ## Social Proof
 
-[LinkedIn](https://www.linkedin.com/posts/karanbalaji_karanbalaji100daysofcloud-activity-6691067063806623744-LOGw)
-[Twitter](https://twitter.com/Karanbalaji047/status/1285702213357178885)
+[LinkedIn](https://www.linkedin.com/posts/karanbalaji_100daysofcloud-aws-toronto-activity-6691783299192516608-VKua)
+[Twitter](https://twitter.com/Karanbalaji047/status/1286017807143120898)
 
 
