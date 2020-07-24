@@ -35,7 +35,7 @@ Aiming to get Azure fundamentals.
 
 ## Social Proof
 
-[LinkedIn](https://www.linkedin.com/posts/karanbalaji_100daysofcloud-aws-toronto-activity-6691783299192516608-VKua)
-[Twitter](https://twitter.com/Karanbalaji047/status/1286017807143120898)
+[LinkedIn](https://www.linkedin.com/posts/karanbalaji_100daysofcloud-azure-aws-activity-6692245205615202304-ojQm)
+[Twitter](https://twitter.com/Karanbalaji047/status/1286478832027959298)
 
 
