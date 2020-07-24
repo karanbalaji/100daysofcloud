@@ -1,52 +1,41 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+# Access Management using Azure Active directory to creat user who manages password resets.
 
-# New post title here
+![placeholder image](images/banner.jpeg)
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+A beginner level exercise that helps setup a user with least privilege a role that maintains password reset in the organization 
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Familiarity with the Azure portal and Azure Active Directory.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- Azure Active Directory is like AWS (IAM). The UI of Azure is great.
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+### Step 1 — Search for Active Directory and create the respective user name etc.
+![Screenshot](images/step-1.png)
 
-### Step 1 — Summary of Step
+### Step 2 — Scroll down and select roles and type password administrator in search to attach the role
+![placeholder image](images/step-2.png)
 
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+### Step 3 - Set usage location and optionally you can create groups for best practices 
+![placeholder image](images/step-3.png)
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+Azure UI is really good and simple. After using for AWS for so long i feel i can learn azure faster.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+Aiming to get Azure fundamentals.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+[LinkedIn](https://www.linkedin.com/posts/karanbalaji_100daysofcloud-aws-toronto-activity-6691783299192516608-VKua)
+[Twitter](https://twitter.com/Karanbalaji047/status/1286017807143120898)
 
-[link](link)
+
