@@ -1,6 +1,6 @@
 # Module 1 - AWS Fullstack serverless workshop called Innovator Island
 
-![placeholder image](images/banner.jpeg)
+![placeholder image](images/banner.png)
 
 ## Prerequisite
 

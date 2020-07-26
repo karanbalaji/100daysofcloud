@@ -10,16 +10,16 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## [✍️ Karan Balaji]'s Cloud Journey
+## [Karan Balaji ☁️🚀 ]'s Cloud Journey
 
-[✍️ A marketer who loves tech and gaming. I design customer-centric touchpoints for users & customers.I started my journey studying business which enabled me to fully understand the perspective of business and my passion for gaming for over 10 years helped me understand the user and led me to become tech-savvy]
+🚀 A marketer who loves tech👨‍💻 and gaming🕹️. I design👨‍🎨 customer-centric touchpoints for users & customers. I started my journey studying business📊 which enabled me to fully understand the perspective of business and my passion for gaming for over 10 years helped me understand the user and led me to become tech-savvy
 
-[✍️ I started this challege to create more projects and land a cloud related job. Cloud computing knowledge has helped me solve problems within clicks. I wish to bring this knowledge to the industry so that they can focus on the customer experience.]
+🚀 I started this challege to create more projects and land a cloud related job. Cloud computing knowledge has helped me solve problems within clicks. I wish to bring this knowledge to the industry so that they can focus on the customer experience.
 
-[✍️ At the end of this challenge i wish to see myself working as a cloud engineer/consultant or be a mediator in the business/cloud deparment in a branded company]
+🚀 At the end of this challenge i wish to see myself working as a cloud engineer/consultant or be a mediator in the business/cloud deparment in a branded company]
 
-- [✍️ Twitter: @karanbalaji047](https://twitter.com/karanbalaji047)
-- [✍️ LinkedIn: Karan Balaji](https://www.linkedin.com/in/karanbalaji)
+- [ Twitter: @karanbalaji047](https://twitter.com/karanbalaji047)
+- [ LinkedIn: Karan Balaji](https://www.linkedin.com/in/karanbalaji)
 
 ## Stepping out the door
 
@@ -28,7 +28,7 @@
 - [x] ☁️ 3 > (AWS)[Creating a Gatsby React full stack webapp with AUTH using AWS Amplify.](Journey/003/Readme.md)
 - [x] ☁️ 4 > (Azure)[Access Management using Azure Active directory to creat user who manages password resets.](Journey/004/Readme.md)
 - [x] ☁️ 5 > (AWS)[Module 1 - AWS Fullstack serverless workshop called Innovator Island](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [](Journey/006/Readme.md)
+- [ ] ☁️ 6 > (AWS)[Module 2 - Real-time ride wait times with SNS, Lambda, IoT & DynamoDB](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
