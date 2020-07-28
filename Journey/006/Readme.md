@@ -1,4 +1,4 @@
-# Module 2 - Real-time ride wait times with SNS, Lambda, IoT & DynamoDB
+# Module 3: On-ride photo processing - Creating the chroma key Lambda function
 
 ![placeholder image](images/banner.png)
 
@@ -8,7 +8,7 @@ This is a follow along workshop and reqires sound AWS knowledge with at least cl
 
 ## Project Link Outcome - https://master.d3ja7u40klmv5g.amplifyapp.com/#/
 
-## Github Follow Along Link - https://github.com/aws-samples/aws-serverless-workshop-innovator-island/blob/master/2-realtime/README.md
+## Github Follow Along Link - https://github.com/aws-samples/aws-serverless-workshop-innovator-island/blob/master/3-photos/1-chromakey/README.md
 
 
 ## Social Proof
