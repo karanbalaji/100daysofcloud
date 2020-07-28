@@ -13,7 +13,7 @@ This is a follow along workshop and reqires sound AWS knowledge with at least cl
 
 ## Social Proof
 
-[LinkedIn](https://www.linkedin.com/posts/karanbalaji_100daysofcloud-cloud-aws-activity-6693135851876081664-exxN)
-[Twitter](https://twitter.com/Karanbalaji047/status/1287370554606063619)
+[LinkedIn](https://www.linkedin.com/posts/karanbalaji_100daysofcloud-aws-toronto-activity-6693690039345520640-PTh9)
+[Twitter](https://twitter.com/Karanbalaji047/status/1287924253824880640)
 
 
