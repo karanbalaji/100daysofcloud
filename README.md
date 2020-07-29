@@ -29,8 +29,8 @@
 - [x] ☁️ 4 > (Azure)[Access Management using Azure Active directory to creat user who manages password resets.](Journey/004/Readme.md)
 - [x] ☁️ 5 > (AWS)[Module 1 - AWS Fullstack serverless workshop called Innovator Island](Journey/005/Readme.md)
 - [x] ☁️ 6 > (AWS)[Module 2 - Real-time ride wait times with SNS, Lambda, IoT & DynamoDB](Journey/006/Readme.md)
-- [x] ☁️ 7 > (AWS)[Module 3: On-ride photo processing - Creating the chroma key Lambda function](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [](Journey/008/Readme.md)
+- [x] ☁️ 7 > (AWS)[Module 3.A: On-ride photo processing - Creating the chroma key Lambda function](Journey/007/Readme.md)
+- [x] ☁️ 8 > (AWS)[Module 3.B & 3.C: On-ride photo processing - Creating the photo compositing Lambda function & Post Processing ](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
