@@ -32,7 +32,7 @@
 - [x] ☁️ 7 > (AWS)[Module 3.A: On-ride photo processing - Creating the chroma key Lambda function](Journey/007/Readme.md)
 - [x] ☁️ 8 > (AWS)[Module 3.B & 3.C: On-ride photo processing - Creating the photo compositing Lambda function & Post Processing ](Journey/008/Readme.md)
 - [x] ☁️ 9 > (AWS)[Module 4: Language translation for Canadian personas 🇨🇦](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [x] ☁️ 10 > (AWS)[Module 5: Analyzing visitor with AWS kinesis and Quicksight](Journey/010/Readme.md)
 
 ## Walking down the road
 
