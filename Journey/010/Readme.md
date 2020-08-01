@@ -1,4 +1,4 @@
-# Module 5: Analyzing visitor stats Lambda function
+# Module 5: Analyzing visitor with AWS kinesis and Quicksight
 
 ![placeholder image](images/banner.png)
 
@@ -14,7 +14,7 @@ This is a follow along workshop and reqires sound AWS knowledge with at least cl
 
 ## Social Proof
 
-[LinkedIn]()
+[LinkedIn](https://www.linkedin.com/posts/karanbalaji_karanbalaji100daysofcloud-activity-6695153956240322561-0H_H)
 [Twitter]()
 
 
