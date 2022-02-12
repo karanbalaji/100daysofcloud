@@ -12,7 +12,7 @@
 
 ## [Karan Balaji ☁️🚀 ]'s Cloud Journey
 
-🚀 A marketer who loves tech👨‍💻 and gaming🕹️. I design👨‍🎨 customer-centric touchpoints for users & customers. I started my journey studying business📊 which enabled me to fully understand the perspective of business and my passion for gaming for over 10 years helped me understand the user and led me to become tech-savvy
+🚀 A Ux Designer who loves tech👨‍💻 and gaming🕹️. I design👨‍🎨 customer-centric touchpoints for users & customers. I started my journey studying business📊 which enabled me to fully understand the perspective of business and my passion for gaming for over 10 years helped me understand the user and led me to become tech-savvy
 
 🚀 I started this challege to create more projects and land a cloud related job. Cloud computing knowledge has helped me solve problems within clicks. I wish to bring this knowledge to the industry so that they can focus on the customer experience.
 
