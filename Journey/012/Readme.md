@@ -29,4 +29,4 @@
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[Twitter](https://twitter.com/Karanbalaji047/status/1493622041211289606)
