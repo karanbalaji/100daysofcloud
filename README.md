@@ -39,7 +39,7 @@
 - [x] ☁️ 11 > (AWS)[Module 6A: Developing event-based architecture - (1) Configure the event bus and metrics dashboard](Journey/011/Readme.md)
 - [x] ☁️ 12 > (JS)(14% Done)[Relearing JavaScript Algorithms and Data Structures](Journey/012/Readme.md)
 - [x] ☁️ 13 > (JS)(44% Done)[Basic Javascript](Journey/013/Readme.md)
-- [ ] ☁️ 14 > [](Journey/014/Readme.md)
+- [x] ☁️ 14 > (JS)(64% Done)[Basic Javascript](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [](Journey/016/Readme.md)
 - [ ] ☁️ 17 > [](Journey/017/Readme.md)
