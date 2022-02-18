@@ -2,6 +2,17 @@
   <img src="banner.png">
 </p>
 
+## [Karan Balaji ☁️🚀 ]'s Cloud Journey
+
+🚀 A Ux Designer who loves tech👨‍💻 and gaming🕹️. I bridge the gap between design and developers by working throughout the UX process and can make rapid prototypes with Figma, Adobe XD, HTML, CSS, JS. I started my journey studying business📊 which enabled me to fully understand the perspective of business and my passion for gaming for over 10 years helped me understand the user and led me to become tech-savvy
+
+🚀 I started this challege to create more projects and become a design technologist. Cloud computing knowledge has helped me solve problems within clicks. I wish to bring this knowledge to the industry so that they can focus on the customer experience.
+
+🚀 At the end of this challenge i wish to see myself working as a UX Engineer / Design Technologist or be a mediator in the Design/Tech department in a branded company]
+
+- [ Twitter: @karanbalaji047](https://twitter.com/karanbalaji047)
+- [ LinkedIn: Karan Balaji](https://www.linkedin.com/in/karanbalaji)
+
 ## The Challenge
 1. Read about the challenge and register at [#100DaysOfCloud.com](https://100DaysOfCloud.com)
 2. Join the [Discord Channel](https://discord.gg/c6Db8nY)
@@ -9,17 +20,6 @@
 4. Use the [Micro](Templates/000-DAY-ARTICLE-MICRO-TEMPLATE.md), [Short](Templates/001-DAY-ARTICLE-SHORT-TEMPLATE.md) or [Long](Templates/002-DAY-ARTICLE-LONG-TEMPLATE.md) Day Journey Template and document your day-to-day progress.
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
-
-## [Karan Balaji ☁️🚀 ]'s Cloud Journey
-
-🚀 A Ux Designer who loves tech👨‍💻 and gaming🕹️. I design👨‍🎨 customer-centric touchpoints for users & customers. I started my journey studying business📊 which enabled me to fully understand the perspective of business and my passion for gaming for over 10 years helped me understand the user and led me to become tech-savvy
-
-🚀 I started this challege to create more projects and land a cloud related job. Cloud computing knowledge has helped me solve problems within clicks. I wish to bring this knowledge to the industry so that they can focus on the customer experience.
-
-🚀 At the end of this challenge i wish to see myself working as a cloud engineer/consultant or be a mediator in the business/cloud deparment in a branded company]
-
-- [ Twitter: @karanbalaji047](https://twitter.com/karanbalaji047)
-- [ LinkedIn: Karan Balaji](https://www.linkedin.com/in/karanbalaji)
 
 ## Stepping out the door
 
