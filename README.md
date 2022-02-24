@@ -38,12 +38,12 @@
 
 - [x] ☁️ 11 > (AWS)[Module 6A: Developing event-based architecture - (1) Configure the event bus and metrics dashboard](Journey/011/Readme.md)
 - [x] ☁️ 12 > (JS)(14% Done)[Relearing JavaScript Algorithms and Data Structures](Journey/012/Readme.md)
-- [x] ☁️ 13 > (JS)(44% Done)[Basic Javascript](Journey/013/Readme.md)
-- [x] ☁️ 14 > (JS)(64% Done)[Basic Javascript](Journey/014/Readme.md)
+- [x] ☁️ 13 > (JS)(44% Done)[Basic Javascript - Variables and Commenting](Journey/013/Readme.md)
+- [x] ☁️ 14 > (JS)(64% Done)[Basic Javascript - Operators and Strings](Journey/014/Readme.md)
 - [x] ☁️ 15 > (JS)(72% Done)[Basic Javascript - Conditions, arrays and strings](Journey/015/Readme.md)
 - [x] ☁️ 16 > (JS)(74% Done)[Basic Javascript - Objects](Journey/016/Readme.md)
 - [x] ☁️ 17 > (JS)(84% Done)[Basic Javascript - Objects and Nested Objects](Journey/017/Readme.md)
-- [ ] ☁️ 18 > [](Journey/018/Readme.md)
+- [x] ☁️ 18 > (JS)(90% Done)[Basic Javascript - Using loops](Journey/018/Readme.md)
 - [ ] ☁️ 19 > [](Journey/019/Readme.md)
 - [ ] ☁️ 20 > [](Journey/020/Readme.md)
 
